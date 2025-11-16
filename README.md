@@ -43,6 +43,7 @@ Look at one of the following topics to learn more about LaravelShoppingcart
 * [Events](#events)
 * [Example](#example)
 
+
 ## Usage
 
 The shoppingcart gives you the following methods to use:
